@@ -42,6 +42,7 @@
                 },
                 "gitdoc.commitValidationLevel": "none",
                 "gitdoc.enabled": true,
+                "chat.disableAIFeatures": true,
                 "workbench.colorTheme": "Xcode Classic (Light)",
                 "actionButtons": {
                     "commands": [
